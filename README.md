@@ -24,6 +24,8 @@ Pass a query string parameter named *debug* with a value of *1* to the PowerApp 
 
 ![alt-text][easter-egg-1_1]
 
+![alt-text][easter-egg-1_2]
+
 
 [easter-egg-1_1]: https://github.com/SmartterHealth/hand-hygiene-tracking/blob/master/images/easter-egg1_1.png "Debug button"
 [easter-egg-1_2]: https://github.com/SmartterHealth/hand-hygiene-tracking/blob/master/images/easter-egg1_2.png "Debug screen"
