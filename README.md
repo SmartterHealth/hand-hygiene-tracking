@@ -22,8 +22,10 @@ alter login [COUser] with password = "your_new_password"
 
 Pass a query string parameter named *debug* with a value of *1* to the PowerApp to enable a debug info screen. This screen can be used to clear/reload the cached reference data.
 
+**Debug Button**
 ![alt-text][easter-egg-1_1]
 
+**Debug Screen**
 ![alt-text][easter-egg-1_2]
 
 
